@@ -7,7 +7,7 @@ I didn’t just make it work — I made it look 🔥 with blur, wallpapers, anim
 
 ## 🧠 What I Built
 
-- A sexy responsive navbar  
+- AN AESTHETIC responsive navbar  
 - Hamburger toggle for mobile  
 - Animated menu dropdown with blur & slide-in  
 - Wallpaper backgrounds (because boring UIs are illegal)  
