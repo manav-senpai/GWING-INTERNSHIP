@@ -16,15 +16,6 @@ I didn’t just make it work — I made it look 🔥 with blur, wallpapers, anim
 
 ---
 
-## 🎨 Live Vibes (Screenshots)
-
-![Navbar Desktop](./preview-desktop.png)  
-![Navbar Mobile](./preview-mobile.png)
-
-
-
----
-
 ## ⚙️ Tech Stack
 
 - 🧱 HTML5  
