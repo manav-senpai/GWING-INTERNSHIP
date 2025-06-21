@@ -21,7 +21,7 @@ I didn’t just make it work — I made it look 🔥 with blur, wallpapers, anim
 ![Navbar Desktop](./preview-desktop.png)  
 ![Navbar Mobile](./preview-mobile.png)
 
-> *(Add your screenshots as `preview-desktop.png` and `preview-mobile.png`)*
+
 
 ---
 
